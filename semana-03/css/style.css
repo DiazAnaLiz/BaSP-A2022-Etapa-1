@@ -195,6 +195,8 @@ article h2{
     height: 10px;
     left: 209px;
     top: 47px;
+    padding: 50px 100px;
+    padding: 50px 50px;
 }
 
 .cards-white{
@@ -203,6 +205,7 @@ article h2{
     height: max-content;
     padding: 50px 100px;
     padding: 50px 50px;
+    width: 1440px;
 }
 
 .card-box{
@@ -287,4 +290,51 @@ article h2{
     height: 10px;
     left: 209px;
     top: 47px;
+}
+
+.line-gray-thin{
+    display: inline-block;
+    width: 100%;
+    border-top: 4px solid gray;
+    width: 800px;
+    height: 10px;
+    left: 209px;
+    top: 47px;
+}
+
+.block{
+    float: left;
+    width: 45%;
+    padding: 50px 0px;
+}
+.padding20{
+    padding: 50px 20px;
+}
+
+
+.f-text-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 75px;
+    padding: 5px 0px 5px 90px;
+    margin-bottom: -50px;
+}
+
+.f-text-body{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 75px;
+    padding: 5px 0px 5px 90px;
+    margin-top: -80px;
+}
+
+.f-container{
+        position: relative;
+        display: inline-block;
+        box-sizing: content-box;
+        height: max-content;
+        padding: 50px 50px;
+        padding: 50px 25px;
+    }
+    
 }
