@@ -15,15 +15,6 @@ body{
    /* margin-left: 180px; */
 }
 
-aside{
-    width: 10%;
-    height: 100%;
-    position: fixed;
-    background-color: white;
-    left: 0px;
-    top: 0px;
-}
-
 #logo{
     width: 100%;
     text-align: center;

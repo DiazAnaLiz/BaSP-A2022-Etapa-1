@@ -1,0 +1,82 @@
+header{
+    display: flex;
+    align-content: center;
+    height: 347px;
+    width:100%;
+    margin: 18px 18px;
+    background-image: url('../assests/img.png/header-picture.png');
+    background-repeat: no-repeat;
+    color: white;
+    /* background-size: 1658px,1230px,auto; */
+}
+
+.header-background{
+    padding-left: 22px;
+    padding-right: 7px;
+    width: 366px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+header h1{
+    padding-top: 170px;
+    left: 205px;
+    border-bottom: 2px solid #aace9b;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+header h2{
+    margin-bottom: 68px;
+    margin-top: 17px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+header p{
+    display: none;
+}
+
+.who-container{
+    padding-left: 10%;
+}
+
+.funcionalities article{
+    margin-top: 100px;
+    padding: 50px 75px;
+}
+
+article h2{
+    margin-left: 162px;
+    margin-top: 71px;
+    border-bottom: 10px solid #d9d9d9;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.p1{
+    height: 206px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 162px;
+    line-height: 30px;
+    text-align: center;
+    color: #373867;
+    margin-top: 83px;
+}
+
+.p2{
+    height: 206px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 162px;
+    line-height: 30px;
+    text-align: center;
+    color: #49a37b;
+    margin-top: 30px;
+}
+
+
+@media screen and (max-width: 1024px) {
+}
