@@ -10,7 +10,7 @@ Trackgenix is an app to boost the producity of your business. You can create pro
 ```
 
 ## How to use
-1- sing up/login with your account
+1- sign up/login with your account
 2- you will see all the projects you have, when you click on one, you will be able to upload all the hours you have been working on it, as well as working together with the rest of the team.
 
 ## About GigaTech
@@ -23,7 +23,13 @@ project and provides information to the companies so they can make better decisi
 
 ```
 
-- Week 1: make on an .html file corresponding to the landing page of a previous activity.
+## Week 1
+Make of an .html file corresponding to the landing page of a previous activity.
 
-# Week 2
-We complete the landing.
+
+## Week 2
+We gave style to the html using css.
+
+
+## Week 3
+We made the page responsive using flexbox.
