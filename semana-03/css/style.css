@@ -15,53 +15,6 @@ body{
    /* margin-left: 180px; */
 }
 
-.product-enterprise-support{
-    max-width: 90%;
-    height: 176px;
-    margin-left: 36px;
-    margin-top: 16px;
-    padding-left: 474px;
-    padding-top: 63px;
-    background-image: url('../assests/img.png/picture-footer.png');
-    background-size: contain;
-}
-
-.product-enterprise-support div{
-    display: inline-block;
-    width: 32.8%;
-}
-
-footer {
-    max-width: 90%;
-    height: 176px;
-    margin-right: 0px;
-    padding-left: 10%;
-    background-color: #AACE9B;
-}
-
-footer div:first-child{
-    display: inline-block;
-    margin-left: 465px;
-    margin-right: 40px;
-    margin-top: 25px;
-}
-
-footer div{
-    display: inline-block;
-    margin-right: 40px;
-    margin-bottom: 16px;
-}
-
-footer i{
-    color: white;
-    font-size: 38px;
-}
-
-footer p{
-    text-align: center;
-    margin-top: 25px;
-    line-height: 15px;
-}
 
 footer i:hover, .why-container h3:hover, .f-container h3:hover, .product-enterprise-support h4:hover{
     color: red;

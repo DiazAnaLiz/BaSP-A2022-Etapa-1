@@ -2,7 +2,6 @@ header{
     display: flex;
     align-content: center;
     height: 347px;
-    width:100%;
     margin: 18px 18px;
     background-image: url('../assests/img.png/header-picture.png');
     background-repeat: no-repeat;

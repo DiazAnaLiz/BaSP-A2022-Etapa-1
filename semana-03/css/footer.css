@@ -1,0 +1,19 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    height: 176px;
+    background-color: #AACE9B;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: 38px;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 35px;
+}
